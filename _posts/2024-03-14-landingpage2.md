@@ -22,4 +22,4 @@ p.s. McDonalds 와 같이 시간 표시되는 것까지 구현해보기 (혼자�
 <br>
 제작한 랜딩페이지를 github 블로그를 통해 무료로 퍼블리싱 했습니다. <br>
 랜딩페이지는 직접 볼 수 있도록 아래 첨부해놓겠습니다. <br>
-[랜딩페이지 보러가기 클릭]([https://jameshj0137.github.io/mysite2/index.html)
+[랜딩페이지 보러가기 클릭](https://jameshj0137.github.io/mysite2/index.html)
