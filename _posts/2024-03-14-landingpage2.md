@@ -1,6 +1,6 @@
 ---
 title:  랜딩페이지 만들기
-excerpt: Mobirise를 통해 랜딩페이지 만들었습니다.
+excerpt: Nicepage를 통해 랜딩페이지 만들었습니다.
 
 categories:
   - Blog
